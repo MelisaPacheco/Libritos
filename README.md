@@ -6,5 +6,4 @@ aprender un poco más sobre el uso de programas
 de *software* libre. 
 
 ## Licencia
-
-Estos libritos están bajo [Licencia Editorial Abierta y Libre (LEAL)](http://leal.perrotriste.io/).
+Libritos que se encuentran bajo la [Licencia Editorial Abierta y Libre (LEAL)](http://leal.perrotriste.io/).
