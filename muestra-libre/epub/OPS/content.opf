@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="es" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:language>es</dc:language>
+        <dc:title>Muestra libre</dc:title>
+        <dc:creator>Rivera, Guadalupe</dc:creator>
+        <dc:publisher>Ediciones La Social</dc:publisher>
+        <dc:description>Este libro es un regalo a una (futura) comunidad de creadorxs y todo su contenido está hecho en Software Libre y con Licencias Libres. Todo, desde las ilustraciones, las tipografías, los programas de edición de texto e imagen, hasta el sistema operativo completo, ha sido desarrolladx y compartidx libremente. Lo he escrito para que cualquiera lo pueda leer y compartir, pero sobre todo para que sea reflexionado por editorxs, diseñadorxs y creadorxs. Este libro no es una muestra gratis, pero sí es una muestra libre de los principios de libertad creativa por los cuales nos guiamos para construir un mundo mejor. Este libro es para todas y todos. G.R.</dc:description>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:identifier id="uid">muestra.libre-v1.0.0-01340c54-7616-46d7-93a2-0c2630f91983</dc:identifier>
+        <meta property="dcterms:modified">2017-08-26T14:32:46Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="ibooks:specified-fonts">true</meta>
+    </metadata>
+    <manifest>
+        <item href="toc.ncx" id="id_toc_ncx" media-type="application/x-dtbncx+xml" />
+        <item href="nav.xhtml" id="id_nav_xhtml" media-type="application/xhtml+xml" properties="nav" />
+        <item href="img/portada.jpg" id="id_portada_jpg" media-type="image/jpeg" properties="cover-image" />
+        <item href="css/styles.css" id="id_styles_css" media-type="text/css" />
+        <item href="fonts/goudy_bookletter_1911.otf" id="id_goudy_bookletter_1911_otf" media-type="application/vnd.ms-opentype" />
+        <item href="img/contraportada.jpg" id="id_contraportada_jpg" media-type="image/jpeg" />
+        <item href="img/img01.png" id="id_img01_png" media-type="image/png" />
+        <item href="img/img02.png" id="id_img02_png" media-type="image/png" />
+        <item href="img/img03.png" id="id_img03_png" media-type="image/png" />
+        <item href="img/img04.png" id="id_img04_png" media-type="image/png" />
+        <item href="img/img05.png" id="id_img05_png" media-type="image/png" />
+        <item href="img/img06.png" id="id_img06_png" media-type="image/png" />
+        <item href="img/img07.png" id="id_img07_png" media-type="image/png" />
+        <item href="img/img08.png" id="id_img08_png" media-type="image/png" />
+        <item href="img/img09.png" id="id_img09_png" media-type="image/png" />
+        <item href="img/img10.png" id="id_img10_png" media-type="image/png" />
+        <item href="img/img11.png" id="id_img11_png" media-type="image/png" />
+        <item href="img/img12.png" id="id_img12_png" media-type="image/png" />
+        <item href="img/img13.png" id="id_img13_png" media-type="image/png" />
+        <item href="img/img14.png" id="id_img14_png" media-type="image/png" />
+        <item href="img/img15.png" id="id_img15_png" media-type="image/png" />
+        <item href="img/img16.png" id="id_img16_png" media-type="image/png" />
+        <item href="img/img17.png" id="id_img17_png" media-type="image/png" />
+        <item href="img/img18.png" id="id_img18_png" media-type="image/png" />
+        <item href="img/img19.png" id="id_img19_png" media-type="image/png" />
+        <item href="img/img20.png" id="id_img20_png" media-type="image/png" />
+        <item href="img/img21.png" id="id_img21_png" media-type="image/png" />
+        <item href="img/img22.png" id="id_img22_png" media-type="image/png" />
+        <item href="img/img23.png" id="id_img23_png" media-type="image/png" />
+        <item href="img/img24.png" id="id_img24_png" media-type="image/png" />
+        <item href="img/img25.png" id="id_img25_png" media-type="image/png" />
+        <item href="img/img26.png" id="id_img26_png" media-type="image/png" />
+        <item href="img/img27.png" id="id_img27_png" media-type="image/png" />
+        <item href="img/logo01.png" id="id_logo01_png" media-type="image/png" />
+        <item href="img/logo02.png" id="id_logo02_png" media-type="image/png" />
+        <item href="img/logo03.png" id="id_logo03_png" media-type="image/png" />
+        <item href="xhtml/000-portada.xhtml" id="id_000-portada_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/001-sin-titulo.xhtml" id="id_001-sin-titulo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/002-sin-titulo.xhtml" id="id_002-sin-titulo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/003-portadilla.xhtml" id="id_003-portadilla_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/004-legal.xhtml" id="id_004-legal_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/005-reflexiones-sobre-pirateria-software-libre.xhtml" id="id_005-reflexiones-sobre-pirateria-software-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/006-reflexiones-sobre-pirateria-software-libre.xhtml" id="id_006-reflexiones-sobre-pirateria-software-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/007-reflexiones-sobre-pirateria-software-libre.xhtml" id="id_007-reflexiones-sobre-pirateria-software-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/008-reflexiones-sobre-pirateria-software-libre.xhtml" id="id_008-reflexiones-sobre-pirateria-software-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/009-reflexiones-sobre-pirateria-software-libre.xhtml" id="id_009-reflexiones-sobre-pirateria-software-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/010-este-libro-es-mio.xhtml" id="id_010-este-libro-es-mio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/011-este-libro-es-mio.xhtml" id="id_011-este-libro-es-mio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/012-este-libro-es-mio.xhtml" id="id_012-este-libro-es-mio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/013-lo-politicamente-correcto-y-la.xhtml" id="id_013-lo-politicamente-correcto-y-la_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/014-lo-politicamente-correcto-y-la.xhtml" id="id_014-lo-politicamente-correcto-y-la_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/015-lo-politicamente-correcto-y-la.xhtml" id="id_015-lo-politicamente-correcto-y-la_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/016-la-pirateria-es-una-falsa.xhtml" id="id_016-la-pirateria-es-una-falsa_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/017-la-pirateria-es-una-falsa.xhtml" id="id_017-la-pirateria-es-una-falsa_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/018-la-pirateria-es-una-falsa.xhtml" id="id_018-la-pirateria-es-una-falsa_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/019-construir-un-mundo-mejor-no.xhtml" id="id_019-construir-un-mundo-mejor-no_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/020-construir-un-mundo-mejor-no.xhtml" id="id_020-construir-un-mundo-mejor-no_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/021-construir-un-mundo-mejor-no.xhtml" id="id_021-construir-un-mundo-mejor-no_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/022-la-donacion-es-un-principio.xhtml" id="id_022-la-donacion-es-un-principio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/023-la-donacion-es-un-principio.xhtml" id="id_023-la-donacion-es-un-principio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/024-la-donacion-es-un-principio.xhtml" id="id_024-la-donacion-es-un-principio_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/025-este-libro-no-es-gratuito.xhtml" id="id_025-este-libro-no-es-gratuito_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/026-este-libro-no-es-gratuito.xhtml" id="id_026-este-libro-no-es-gratuito_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/027-este-libro-no-es-gratuito.xhtml" id="id_027-este-libro-no-es-gratuito_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/028-no-le-vendas-tu-alma.xhtml" id="id_028-no-le-vendas-tu-alma_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/029-no-le-vendas-tu-alma.xhtml" id="id_029-no-le-vendas-tu-alma_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/030-no-le-vendas-tu-alma.xhtml" id="id_030-no-le-vendas-tu-alma_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/031-no-le-vendas-tu-alma.xhtml" id="id_031-no-le-vendas-tu-alma_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/032-no-pongas-una-licencia-a.xhtml" id="id_032-no-pongas-una-licencia-a_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/033-no-pongas-una-licencia-a.xhtml" id="id_033-no-pongas-una-licencia-a_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/034-no-pongas-una-licencia-a.xhtml" id="id_034-no-pongas-una-licencia-a_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/035-no-pongas-una-licencia-a.xhtml" id="id_035-no-pongas-una-licencia-a_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/036-muestra-libre.xhtml" id="id_036-muestra-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/037-muestra-libre.xhtml" id="id_037-muestra-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/038-muestra-libre.xhtml" id="id_038-muestra-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/039-muestra-libre.xhtml" id="id_039-muestra-libre_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/040-anexo-1-el-ultimo-vuelo.xhtml" id="id_040-anexo-1-el-ultimo-vuelo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/041-anexo-1-el-ultimo-vuelo.xhtml" id="id_041-anexo-1-el-ultimo-vuelo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/042-anexo-1-el-ultimo-vuelo.xhtml" id="id_042-anexo-1-el-ultimo-vuelo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/043-anexo-1-el-ultimo-vuelo.xhtml" id="id_043-anexo-1-el-ultimo-vuelo_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/044-anexo-2-creditos-de-imagenes.xhtml" id="id_044-anexo-2-creditos-de-imagenes_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/045-anexo-2-creditos-de-imagenes.xhtml" id="id_045-anexo-2-creditos-de-imagenes_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/046-anexo-2-creditos-de-imagenes.xhtml" id="id_046-anexo-2-creditos-de-imagenes_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/047-anexo-2-creditos-de-imagenes.xhtml" id="id_047-anexo-2-creditos-de-imagenes_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/048-anexo-2-creditos-de-imagenes.xhtml" id="id_048-anexo-2-creditos-de-imagenes_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/049-sin-titulo.xhtml" id="id_049-sin-titulo_xhtml" media-type="application/xhtml+xml" />
+    </manifest>
+    <spine toc="id_toc_ncx">
+        <itemref idref="id_000-portada_xhtml"/>
+        <itemref idref="id_001-sin-titulo_xhtml"/>
+        <itemref idref="id_002-sin-titulo_xhtml"/>
+        <itemref idref="id_003-portadilla_xhtml"/>
+        <itemref idref="id_004-legal_xhtml"/>
+        <itemref idref="id_005-reflexiones-sobre-pirateria-software-libre_xhtml"/>
+        <itemref idref="id_006-reflexiones-sobre-pirateria-software-libre_xhtml"/>
+        <itemref idref="id_007-reflexiones-sobre-pirateria-software-libre_xhtml"/>
+        <itemref idref="id_008-reflexiones-sobre-pirateria-software-libre_xhtml"/>
+        <itemref idref="id_009-reflexiones-sobre-pirateria-software-libre_xhtml"/>
+        <itemref idref="id_010-este-libro-es-mio_xhtml"/>
+        <itemref idref="id_011-este-libro-es-mio_xhtml"/>
+        <itemref idref="id_012-este-libro-es-mio_xhtml"/>
+        <itemref idref="id_013-lo-politicamente-correcto-y-la_xhtml"/>
+        <itemref idref="id_014-lo-politicamente-correcto-y-la_xhtml"/>
+        <itemref idref="id_015-lo-politicamente-correcto-y-la_xhtml"/>
+        <itemref idref="id_016-la-pirateria-es-una-falsa_xhtml"/>
+        <itemref idref="id_017-la-pirateria-es-una-falsa_xhtml"/>
+        <itemref idref="id_018-la-pirateria-es-una-falsa_xhtml"/>
+        <itemref idref="id_019-construir-un-mundo-mejor-no_xhtml"/>
+        <itemref idref="id_020-construir-un-mundo-mejor-no_xhtml"/>
+        <itemref idref="id_021-construir-un-mundo-mejor-no_xhtml"/>
+        <itemref idref="id_022-la-donacion-es-un-principio_xhtml"/>
+        <itemref idref="id_023-la-donacion-es-un-principio_xhtml"/>
+        <itemref idref="id_024-la-donacion-es-un-principio_xhtml"/>
+        <itemref idref="id_025-este-libro-no-es-gratuito_xhtml"/>
+        <itemref idref="id_026-este-libro-no-es-gratuito_xhtml"/>
+        <itemref idref="id_027-este-libro-no-es-gratuito_xhtml"/>
+        <itemref idref="id_028-no-le-vendas-tu-alma_xhtml"/>
+        <itemref idref="id_029-no-le-vendas-tu-alma_xhtml"/>
+        <itemref idref="id_030-no-le-vendas-tu-alma_xhtml"/>
+        <itemref idref="id_031-no-le-vendas-tu-alma_xhtml"/>
+        <itemref idref="id_032-no-pongas-una-licencia-a_xhtml"/>
+        <itemref idref="id_033-no-pongas-una-licencia-a_xhtml"/>
+        <itemref idref="id_034-no-pongas-una-licencia-a_xhtml"/>
+        <itemref idref="id_035-no-pongas-una-licencia-a_xhtml"/>
+        <itemref idref="id_036-muestra-libre_xhtml"/>
+        <itemref idref="id_037-muestra-libre_xhtml"/>
+        <itemref idref="id_038-muestra-libre_xhtml"/>
+        <itemref idref="id_039-muestra-libre_xhtml"/>
+        <itemref idref="id_040-anexo-1-el-ultimo-vuelo_xhtml"/>
+        <itemref idref="id_041-anexo-1-el-ultimo-vuelo_xhtml"/>
+        <itemref idref="id_042-anexo-1-el-ultimo-vuelo_xhtml"/>
+        <itemref idref="id_043-anexo-1-el-ultimo-vuelo_xhtml"/>
+        <itemref idref="id_044-anexo-2-creditos-de-imagenes_xhtml"/>
+        <itemref idref="id_045-anexo-2-creditos-de-imagenes_xhtml"/>
+        <itemref idref="id_046-anexo-2-creditos-de-imagenes_xhtml"/>
+        <itemref idref="id_047-anexo-2-creditos-de-imagenes_xhtml"/>
+        <itemref idref="id_048-anexo-2-creditos-de-imagenes_xhtml"/>
+        <itemref idref="id_049-sin-titulo_xhtml"/>
+    </spine>
+</package>

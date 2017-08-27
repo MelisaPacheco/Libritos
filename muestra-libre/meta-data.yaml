@@ -1,0 +1,35 @@
+---
+# Generales
+title: Muestra libre
+author: Rivera, Guadalupe
+publisher: Ediciones La Social
+synopsis: Este libro es un regalo a una (futura) comunidad de creadorxs y todo su contenido está hecho en Software Libre y con Licencias Libres. Todo, desde las ilustraciones, las tipografías, los programas de edición de texto e imagen, hasta el sistema operativo completo, ha sido desarrolladx y compartidx libremente. Lo he escrito para que cualquiera lo pueda leer y compartir, pero sobre todo para que sea reflexionado por editorxs, diseñadorxs y creadorxs. Este libro no es una muestra gratis, pero sí es una muestra libre de los principios de libertad creativa por los cuales nos guiamos para construir un mundo mejor. Este libro es para todas y todos. G.R.
+category: Ensayo
+version: 1.0.0
+cover: portada.jpg
+navigation: nav.xhtml
+
+# Tabla de contenidos
+no-toc: 
+no-spine: 
+custom: 
+  003-portadilla:
+  009-reflexiones-sobre-pirateria-software-libre:
+  010-este-libro-es-mio:
+  013-lo-politicamente-correcto-y-la:
+  016-la-pirateria-es-una-falsa:
+  019-construir-un-mundo-mejor-no:
+  022-la-donacion-es-un-principio:
+  025-este-libro-no-es-gratuito:
+  028-no-le-vendas-tu-alma:
+  032-no-pongas-una-licencia-a:
+  036-muestra-libre:
+  040-anexo-1-el-ultimo-vuelo:
+  044-anexo-2-creditos-de-imagenes:
+
+# Fallbacks
+fallback: 
+
+# Si se quiere EPUB fijo
+px-width: 
+px-height: 

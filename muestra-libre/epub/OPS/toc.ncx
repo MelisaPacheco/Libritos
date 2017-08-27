@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+    <head>
+        <meta content="muestra.libre-v1.0.0-01340c54-7616-46d7-93a2-0c2630f91983" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Muestra libre</text>
+    </docTitle>
+    <docAuthor>
+        <text>Rivera, Guadalupe</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Portadilla</text></navLabel><content src="xhtml/003-portadilla.xhtml"/></navPoint>
+        <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Introducción</text></navLabel><content src="xhtml/009-reflexiones-sobre-pirateria-software-libre.xhtml"/></navPoint>
+        <navPoint id="navPoint-3" playOrder="3"><navLabel><text>“Este libro es mío”</text></navLabel><content src="xhtml/010-este-libro-es-mio.xhtml"/></navPoint>
+        <navPoint id="navPoint-4" playOrder="4"><navLabel><text>Lo políticamente correcto y la ambigüedad editorial</text></navLabel><content src="xhtml/013-lo-politicamente-correcto-y-la.xhtml"/></navPoint>
+        <navPoint id="navPoint-5" playOrder="5"><navLabel><text>La piratería es una falsa solución</text></navLabel><content src="xhtml/016-la-pirateria-es-una-falsa.xhtml"/></navPoint>
+        <navPoint id="navPoint-6" playOrder="6"><navLabel><text>Construir un mundo mejor, no un mundo pirata</text></navLabel><content src="xhtml/019-construir-un-mundo-mejor-no.xhtml"/></navPoint>
+        <navPoint id="navPoint-7" playOrder="7"><navLabel><text>La donación es un principio que crea comunidad</text></navLabel><content src="xhtml/022-la-donacion-es-un-principio.xhtml"/></navPoint>
+        <navPoint id="navPoint-8" playOrder="8"><navLabel><text>Este libro no es gratuito</text></navLabel><content src="xhtml/025-este-libro-no-es-gratuito.xhtml"/></navPoint>
+        <navPoint id="navPoint-9" playOrder="9"><navLabel><text>No le vendas tu alma al diablo</text></navLabel><content src="xhtml/028-no-le-vendas-tu-alma.xhtml"/></navPoint>
+        <navPoint id="navPoint-10" playOrder="10"><navLabel><text>No pongas una licencia a una obra si no vas a creer en ella</text></navLabel><content src="xhtml/032-no-pongas-una-licencia-a.xhtml"/></navPoint>
+        <navPoint id="navPoint-11" playOrder="11"><navLabel><text>Muestra Libre</text></navLabel><content src="xhtml/036-muestra-libre.xhtml"/></navPoint>
+        <navPoint id="navPoint-12" playOrder="12"><navLabel><text>Anexo 1 El Último Vuelo del Osiris</text></navLabel><content src="xhtml/040-anexo-1-el-ultimo-vuelo.xhtml"/></navPoint>
+        <navPoint id="navPoint-13" playOrder="13"><navLabel><text>Anexo 2 Créditos de Imágenes</text></navLabel><content src="xhtml/044-anexo-2-creditos-de-imagenes.xhtml"/></navPoint>
+    </navMap>
+</ncx>
